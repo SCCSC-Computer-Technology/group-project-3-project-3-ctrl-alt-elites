@@ -1,0 +1,2 @@
+Fix authorize roles in InventoryController.cs //temp fix
+once user roles are working
